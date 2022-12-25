@@ -1,0 +1,26 @@
+[
+    {
+        "sent": "Fish Crackers may use your personal information to send you informative and commercial content about Fish Crackers' services or third party products and services Fish Crackers thinks may be of interest to you, such as new features and services, special offers and updated information.",
+        "receiver": "Fish Crackers",
+        "action": "collect",
+        "action_lemma": "use",
+        "data": "your personal information",
+        "purpose": "to send you informative and commercial content about Fish Crackers' services or third party products and services Fish Crackers thinks may be of interest to you, such as new features and services, special offers and updated information.",
+        "pred_idx": "3",
+        "prp_class": "Marketing_customer_comm",
+        "for": "for",
+        "party": "anyone"
+    },
+    {
+        "sent": "Fish Crackers may use your personal information to send you informative and commercial content about Fish Crackers' services or third party products and services Fish Crackers thinks may be of interest to you, such as new features and services, special offers and updated information.",
+        "receiver": "Fish Crackers",
+        "action": "collect",
+        "action_lemma": "use",
+        "data": "your personal information",
+        "purpose": "to send you informative and commercial content about Fish Crackers' services or third party products and services Fish Crackers thinks may be of interest to you, such as new features and services, special offers and updated information.",
+        "pred_idx": "3",
+        "prp_class": "Marketing_promotion",
+        "for": "for",
+        "party": "anyone"
+    }
+]
