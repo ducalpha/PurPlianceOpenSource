@@ -11,7 +11,7 @@ Run code
 Download and extract the NER model
 ####################################
 
-Download NER model `en_core_web_lg.high_f1_data_org.model.tar.xz <https://drive.google.com/file/d/1DVFJKIjJ1VdcKgaT9aAuYQonTwvzr76c/view?usp=sharing>`_
+Download NER model `en_core_web_lg.high_f1_data_org.model.tar.xz <https://drive.google.com/file/d/1wRmNWuiH1JtZBS60DfiGOmOOOVrw4HDC/view?usp=sharing>`_
 and extract the file to ``src/oppnlp/analyze/pded/models/``:
 
 .. code-block:: bash
